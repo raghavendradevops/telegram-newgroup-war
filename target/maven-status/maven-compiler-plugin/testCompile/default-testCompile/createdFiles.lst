@@ -1,0 +1,3 @@
+telegram\echo\TestEchoService.class
+telegram\echo\RESTEchoServiceIT.class
+telegram\echo\EchoServiceInServerIT.class
